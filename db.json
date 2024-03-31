@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "first_name": "Jacques",
+            "last_name": "Douglas",
+            "email": "Alaina28@hotmail.com",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/349.jpg",
+            "id": "1"
+        },
+        {
+            "first_name": "Nadia",
+            "last_name": "Shanahan",
+            "email": "Kelley.Hackett@hotmail.com",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1236.jpg",
+            "id": "2"
+        },
+        {
+            "first_name": "Andreanne",
+            "last_name": "Tremblay",
+            "email": "Alexandra.Sanford@yahoo.com",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/227.jpg",
+            "id": "3"
+        },
+        {
+            "first_name": "Melba",
+            "last_name": "Cummerata",
+            "email": "Donnell29@yahoo.com",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/154.jpg",
+            "id": "4"
+        },
+        {
+            "first_name": "Eulah",
+            "last_name": "Thiel",
+            "email": "Kamille63@yahoo.com",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/547.jpg",
+            "id": "5"
+        },
+        {
+            "first_name": "Pink",
+            "last_name": "Runte",
+            "email": "Jessie_Mills30@yahoo.com",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/919.jpg",
+            "id": "6"
+        },
+      {
+        "id": 7,
+        "email": "michael.lawson@reqres.in",
+        "first_name": "Michael",
+        "last_name": "Lawson",
+        "avatar": "https://reqres.in/img/faces/7-image.jpg"
+      },
+      {
+        "id": 8,
+        "email": "lindsay.ferguson@reqres.in",
+        "first_name": "Lindsay",
+        "last_name": "Ferguson",
+        "avatar": "https://reqres.in/img/faces/8-image.jpg"
+      },
+      {
+        "id": 9,
+        "email": "tobias.funke@reqres.in",
+        "first_name": "Tobias",
+        "last_name": "Funke",
+        "avatar": "https://reqres.in/img/faces/9-image.jpg"
+      },
+      {
+        "id": 10,
+        "email": "byron.fields@reqres.in",
+        "first_name": "Byron",
+        "last_name": "Fields",
+        "avatar": "https://reqres.in/img/faces/10-image.jpg"
+      },
+      {
+        "id": 11,
+        "email": "george.edwards@reqres.in",
+        "first_name": "George",
+        "last_name": "Edwards",
+        "avatar": "https://reqres.in/img/faces/11-image.jpg"
+      },
+      {
+        "id": 12,
+        "email": "rachel.howell@reqres.in",
+        "first_name": "Rachel",
+        "last_name": "Howell",
+        "avatar": "https://reqres.in/img/faces/12-image.jpg"
+      }
+    ]
+  }
