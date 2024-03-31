@@ -9,7 +9,7 @@ import NotFound from './views/NotFound.vue'
 const routes = [
     {
         path: '/',
-        name: 'login',
+        name: 'home',
         redirect: '/login' // Redirect the default path to /login
       },
     {
